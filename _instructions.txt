@@ -1,0 +1,2 @@
+1. Run terminal on project folder and run `npm install`
+2. When all packages are installed run `npm start`
